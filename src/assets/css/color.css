@@ -1,0 +1,11 @@
+:root {
+   /*  统一管理app颜色   */
+   --nav-active: #149639;
+   --nav-gray:#bbb;
+   --title:#333;
+   --tag-bg:#F4F4F4;
+   --bg:#fff;
+   --chat-gray:#999;
+   --hello:#181818;
+   --border-bottom:#ccc;
+}
