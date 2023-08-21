@@ -1,5 +1,6 @@
-# jianzhi
+# 练习
 
+## 暂且未完成，随便写
 ## Project setup
 ```
 npm install
