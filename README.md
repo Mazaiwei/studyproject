@@ -1,6 +1,6 @@
 # 练习
 
-## 暂且未完成，随便写
+## 基本功能是完成了
 ## Project setup
 ```
 npm install
